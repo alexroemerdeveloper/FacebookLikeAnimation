@@ -13,6 +13,7 @@
 		6F5FAB1D23C9E4A5001C2179 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F5FAB1C23C9E4A5001C2179 /* Assets.xcassets */; };
 		6F5FAB2023C9E4A5001C2179 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F5FAB1F23C9E4A5001C2179 /* Preview Assets.xcassets */; };
 		6F5FAB2323C9E4A5001C2179 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F5FAB2123C9E4A5001C2179 /* LaunchScreen.storyboard */; };
+		6F5FAB2B23C9E575001C2179 /* Longgesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F5FAB2A23C9E575001C2179 /* Longgesture.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6F5FAB1F23C9E4A5001C2179 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6F5FAB2223C9E4A5001C2179 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6F5FAB2423C9E4A5001C2179 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6F5FAB2A23C9E575001C2179 /* Longgesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Longgesture.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				6F5FAB1623C9E4A2001C2179 /* AppDelegate.swift */,
 				6F5FAB1823C9E4A2001C2179 /* SceneDelegate.swift */,
 				6F5FAB1A23C9E4A2001C2179 /* ContentView.swift */,
+				6F5FAB2A23C9E575001C2179 /* Longgesture.swift */,
 				6F5FAB1C23C9E4A5001C2179 /* Assets.xcassets */,
 				6F5FAB2123C9E4A5001C2179 /* LaunchScreen.storyboard */,
 				6F5FAB2423C9E4A5001C2179 /* Info.plist */,
@@ -149,6 +152,7 @@
 				6F5FAB1723C9E4A2001C2179 /* AppDelegate.swift in Sources */,
 				6F5FAB1923C9E4A2001C2179 /* SceneDelegate.swift in Sources */,
 				6F5FAB1B23C9E4A2001C2179 /* ContentView.swift in Sources */,
+				6F5FAB2B23C9E575001C2179 /* Longgesture.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
